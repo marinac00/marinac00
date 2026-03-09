@@ -20,7 +20,7 @@ Now, I combine this operational reality with **Data Analytics**. Through my tech
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) *(Updating)*
 
 **Domain Expertise:**
-📦 **Warehouse Operations** | 🔄 **Process Optimization** | 📊 **QA Testing Methodology** | 🛠️ **Agile Troubleshooting**
+📦 **Warehouse Operations** | 🔄 **Process Optimization** | 📊 **QA Testing Methodology** | 🛠️ **Root Cause Analysis**
 
 ---
 
