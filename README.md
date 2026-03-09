@@ -37,6 +37,6 @@ Now, I combine this operational reality with **Data Analytics**. Through my tech
 
 ### 📫 Let's Connect
 
-- 📧 **Email:** tu.email.aqui@gmail.com
+
 - 📍 **Location:** Central Switzerland (Lucerne/Zug/Rotkreuz)
 - 💼 **LinkedIn:** *(Link coming soon)*
