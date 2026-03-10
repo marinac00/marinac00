@@ -39,4 +39,4 @@ Now, I combine this operational reality with **Data Analytics**. Through my tech
 
 
 - 📍 **Location:** Central Switzerland (Lucerne/Zug/Rotkreuz)
-- 💼 **LinkedIn:** *(Link coming soon)*
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/marinacancela/)*
